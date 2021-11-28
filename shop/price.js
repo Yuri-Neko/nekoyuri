@@ -9,6 +9,7 @@ ${prefix}Aov -> List Voucher Aov
 ${prefix}Sausage -> List Candy Sausage
 ${prefix}Lol -> List Wc Lol
 ${prefix}Valo -> List Vp Valorant
+${prefix}NekoVideo -> List Video
 
 Untuk melihat listnya ketik ${prefix}list game 
 Ex :
