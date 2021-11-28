@@ -19,5 +19,5 @@ Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
 	}
 
-exports.list_valo = list_valo
+exports.list_valo = Genre_Neko
  
